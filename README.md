@@ -283,6 +283,11 @@ npm run build
    - Check CORS configuration in server
    - Verify frontend and backend URLs match
 
+5. **React Hook Warnings**
+   - The application may show ESLint warnings about React Hooks dependencies
+   - These warnings don't affect functionality in development mode
+   - For production builds, consider addressing the warnings or adjusting ESLint configuration
+
 ## 🤝 Contributing
 
 1. **Fork the repository**
